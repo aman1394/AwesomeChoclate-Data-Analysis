@@ -1,8 +1,10 @@
+## ![awesome chocolates logo](https://github.com/aman1394/Data-Analysis/assets/121683356/02ad04ab-5e89-4fcb-8ebe-7b2b49a789be)
+
 # Awesome Chocolates Sales Analysis
 
 This repository contains data analysis reports created using PowerBI on Awesome Chocolates data.
 
-## ![awesome chocolates logo](https://github.com/aman1394/Data-Analysis/assets/121683356/02ad04ab-5e89-4fcb-8ebe-7b2b49a789be)
+
 
 
 ### Amount Report
