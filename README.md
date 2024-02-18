@@ -12,7 +12,7 @@ This repository contains data analysis reports created using PowerBI on Awesome 
 ![Amount Report Screenshot](https://github.com/aman1394/Data-Analysis/assets/121683356/682c6519-2788-419d-aa17-34ca97cf10d1)
 
 
-Description: This report provides an analysis of the total amount of sales for Awesome Chocolates.
+Description: This report provides an analysis of the total amount of sales by Geo & Team, Sales person for Awesome Chocolates.
 
 ### Sales Performance Report
 
