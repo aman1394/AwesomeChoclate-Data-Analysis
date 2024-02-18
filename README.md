@@ -1,4 +1,4 @@
-# Awesome Chocolates Data Analysis
+# Awesome Chocolates Sales Analysis
 
 This repository contains data analysis reports created using PowerBI on Awesome Chocolates data.
 
@@ -31,7 +31,7 @@ To view the reports, download the .pbix file and open it using PowerBI Desktop.
 
 ## Data Source
 
-The data used for analysis is sourced from an Excel spreadsheet.
+The data used for analysis is sourced from an Awesome Chocolates data.
 
 ## License
 
