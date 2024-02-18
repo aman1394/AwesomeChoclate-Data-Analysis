@@ -17,7 +17,7 @@ Description: This report provides an analysis of the total amount of sales for A
 ![Sales Performance Report](https://github.com/aman1394/Data-Analysis/assets/121683356/554a7bd6-2bd2-4488-b8d0-aefa3d722e9e)
 
 
-Description: This report evaluates the sales performance of different products and regions.
+Description: This report evaluates the sales performance of different sales person and regions.
 
 ### Trends & Forecasting Report
 
