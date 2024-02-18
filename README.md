@@ -20,7 +20,7 @@ Description: This report provides an analysis of the total amount of sales by Ge
 ![Sales Performance Report](https://github.com/aman1394/Data-Analysis/assets/121683356/0cdf9d6d-a92d-4f18-b20e-5ad201443ccc)
 
 
-Description: This report evaluates the sales performance of different sales person by Geo.
+Description: This report evaluates the sales performance of different sales person and amount by geo and category.
 
 ### Trends & Forecasting Report
 
